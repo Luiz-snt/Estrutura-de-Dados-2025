@@ -1,0 +1,15 @@
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\bin\Debug\net9.0\Stacks.exe
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\bin\Debug\net9.0\Stacks.deps.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\bin\Debug\net9.0\Stacks.runtimeconfig.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\bin\Debug\net9.0\Stacks.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\bin\Debug\net9.0\Stacks.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\Stacks.AssemblyInfo.cs
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\Stacks.sourcelink.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\Stacks.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\refint\Stacks.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\Stacks.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\Stacks.genruntimeconfig.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Stacks\obj\Debug\net9.0\ref\Stacks.dll
