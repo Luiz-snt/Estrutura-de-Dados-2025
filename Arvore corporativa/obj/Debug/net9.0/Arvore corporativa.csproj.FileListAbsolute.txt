@@ -1,0 +1,15 @@
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\Arvore corporativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\Arvore corporativa.AssemblyInfoInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\Arvore corporativa.AssemblyInfo.cs
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\Arvore corporativa.csproj.CoreCompileInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\Arvore corporativa.sourcelink.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\bin\Debug\net9.0\Arvore corporativa.exe
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\bin\Debug\net9.0\Arvore corporativa.deps.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\bin\Debug\net9.0\Arvore corporativa.runtimeconfig.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\bin\Debug\net9.0\Arvore corporativa.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\bin\Debug\net9.0\Arvore corporativa.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\Arvore corporativa.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\refint\Arvore corporativa.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\Arvore corporativa.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\Arvore corporativa.genruntimeconfig.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Arvore corporativa\obj\Debug\net9.0\ref\Arvore corporativa.dll
