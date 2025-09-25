@@ -1,0 +1,15 @@
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\bin\Debug\net9.0\Binary trees.exe
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\bin\Debug\net9.0\Binary trees.deps.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\bin\Debug\net9.0\Binary trees.runtimeconfig.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\bin\Debug\net9.0\Binary trees.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\bin\Debug\net9.0\Binary trees.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\Binary trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\Binary trees.AssemblyInfoInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\Binary trees.AssemblyInfo.cs
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\Binary trees.csproj.CoreCompileInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\Binary trees.sourcelink.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\Binary trees.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\refint\Binary trees.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\Binary trees.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\Binary trees.genruntimeconfig.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Binary trees\obj\Debug\net9.0\ref\Binary trees.dll
