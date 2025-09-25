@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Binary trees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cad8f94364ea003927b5e704705b068e65cc5b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8486fe04723dfaf4080a20c4a5008040efd1596a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Binary trees")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Binary trees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
