@@ -13,7 +13,8 @@ namespace Bubble_Sort
             {
                 for (int j = 0; j < array.Length - 1; j++)
                 {
-                    if (array[j].CompareTo(array[j + 1]) < 0)
+                    if (array[j].CompareTo(array[j + 1]) < 0) //Inversor da string, < 0 fica na forma decrescente e > 0 fica de forma crescente
+
                     {
                         Swap(array, j, j + 1);
                     }
