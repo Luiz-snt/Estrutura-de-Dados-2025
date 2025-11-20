@@ -1,0 +1,15 @@
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\bin\Debug\net9.0\Desafio dicionario.exe
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\bin\Debug\net9.0\Desafio dicionario.deps.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\bin\Debug\net9.0\Desafio dicionario.runtimeconfig.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\bin\Debug\net9.0\Desafio dicionario.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\bin\Debug\net9.0\Desafio dicionario.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\Desafio dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\Desafio dicionario.AssemblyInfoInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\Desafio dicionario.AssemblyInfo.cs
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\Desafio dicionario.csproj.CoreCompileInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\Desafio dicionario.sourcelink.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\Desafio dicionario.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\refint\Desafio dicionario.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\Desafio dicionario.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\Desafio dicionario.genruntimeconfig.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Desafio dicionario\obj\Debug\net9.0\ref\Desafio dicionario.dll
